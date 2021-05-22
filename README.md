@@ -1,2 +1,11 @@
-# afya_gama_consumoAPI
-Repositório criado para o modulo de Consumo de API do Curso da Gama Academy - Afya
+# DEV start app
+
+<pre>
+PGUSER=danilo PGHOST=localhost PGPASSWORD= PGDATABASE=afyaLabs PGPORT=5432 npm run dev
+</pre>
+
+# PROD start app
+
+<pre>
+PGUSER=danilo PGHOST=localhost PGPASSWORD= PGDATABASE=afyaLabs PGPORT=5432 PORT=80 npm start
+</pre>
